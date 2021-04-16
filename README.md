@@ -4,7 +4,7 @@
 * MapleRoyals v083 Hack
 * Run MapleRoyals first then run WY.exe with administrator privileges.
 * Name : maple
-* Key : DP7G3gC3qRpY7CzkIWYcREcKCOlrrmsKkFvqfd8ticPt74Q
+* Key : Dq1GFEfTXDr5=qla6PJYk2k0r56nxYrrM8fh88q+u8BZ2jv
 
 # Donate
 
